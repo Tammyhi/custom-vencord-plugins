@@ -1,0 +1,3 @@
+.focus_mode [class^="content_"] > [class^="sidebar_"] {
+    display: none !important;
+}
